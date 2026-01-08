@@ -1,4 +1,5 @@
 Как устанавливать:
+
 0. Иметь систему с LXQt и Openbox
 1. Установить picom:
    sudo pacman -S picom
