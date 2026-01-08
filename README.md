@@ -1,12 +1,23 @@
-Как устанавливать:
+# Как устанавливать:
 
 0. Иметь систему с LXQt и Openbox
+
 1. Установить picom:
-   sudo pacman -S picom
-   Папку picom переместить в /home/username/.config
-2. Папку tema-de переместить в /usr/share/lxqt/themes командой:
-sudo mv ~/tema-de /usr/share/lxqt/themes
-3. Через настройки OpenBox установить тему tema-wm.obt
+
+```sudo pacman -S picom```
+
+Папку *picom* переместить в /home/username/.config. Можно командой:
+
+``` sudo mv ~/picom /home/username/.config```
+
+2. Папку *tema-de* переместить в /usr/share/lxqt/themes командой:
+
+```sudo mv ~/tema-de /usr/share/lxqt/themes```
+
+3. Через настройки OpenBox установить тему *tema-wm.obt*
+
 4. Нижнюю панель переместить наверх, снизу создать новую панель с меню приложений, меню каталога и панелью задачь. Наверху добавить всякой хуйни по вкусу. Часы я сделал с помощью формулы:
-'<b>'H:mm' <font size="3">// 'ddd, d MMM 
-5. Розовую папку для меню каталога можно сделать нажав по нему правой кнопкой мыши и выбрав в значке folder.svg
+
+```'<b>'H:mm' <font size="3">// 'ddd, d MMM```
+
+5. Розовую папку для меню каталога можно сделать нажав по нему правой кнопкой мыши и выбрав в значке *folder.svg*
