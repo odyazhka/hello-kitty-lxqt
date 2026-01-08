@@ -6,7 +6,7 @@
 
 ```sudo pacman -S picom```
 
-Папку *picom* переместить в /home/username/.config. Можно командой:
+Папку *picom* переместить в /home/username/.config (username - ваше имя пользователя). Можно командой:
 
 ``` sudo mv ~/picom /home/username/.config```
 
