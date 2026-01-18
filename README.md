@@ -27,6 +27,7 @@
 <img width="620" height="506" alt="изображение" src="https://github.com/user-attachments/assets/1868cb46-54d5-4197-9e93-9b0d5e1c2fcc" />
 
 Верхнюю панель так:
+
 <img width="627" height="507" alt="изображение" src="https://github.com/user-attachments/assets/7b135927-557a-4f3e-8281-f253bf578242" />
 <img width="628" height="505" alt="изображение" src="https://github.com/user-attachments/assets/ef207f88-8041-42c8-9b84-1ea398cf9063" />
 
