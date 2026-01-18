@@ -3,7 +3,7 @@
 
 ## Как устанавливать:
 
-# 0. Иметь систему с LXQt и Openbox
+### 0. Иметь систему с LXQt и Openbox
 
 Желательно, но можно адаптировать
 
@@ -25,9 +25,11 @@
 
 <img width="620" height="506" alt="изображение" src="https://github.com/user-attachments/assets/44c7c627-7a2e-459f-b6e8-edd8a53c63e6" />
 <img width="620" height="506" alt="изображение" src="https://github.com/user-attachments/assets/1868cb46-54d5-4197-9e93-9b0d5e1c2fcc" />
+
 Верхнюю панель так:
 <img width="627" height="507" alt="изображение" src="https://github.com/user-attachments/assets/7b135927-557a-4f3e-8281-f253bf578242" />
 <img width="628" height="505" alt="изображение" src="https://github.com/user-attachments/assets/ef207f88-8041-42c8-9b84-1ea398cf9063" />
+
 Для того чтобы всё было справа с самого начала создаём невидимые часы. Сделать их невидымыми можно через продвинутый ручной формат, удалив формулу. Формула для других часов:
 
 ```'<b>'H:mm' <font size="3">// 'ddd, d MMM```
