@@ -26,6 +26,13 @@
 5. Розовую папку для меню каталога можно сделать нажав по нему правой кнопкой мыши и выбрав в значке *folder.svg*
 
 6. Установка виджета системного монитора:
+   
    ```sudo pacman -S conky```
-Файл *.conkyrc* перенести в /home/usernameпалец вниз
 
+Файл *.conkyrc* перенести в */home/username*
+
+Для автозапуска файл *conky.desktop* перенести в */home/username/.config/autostart*
+
+Для настройки виджета под себя мне помог этот сайт:
+
+https://help.ubuntu.ru/wiki/conky 
