@@ -1,4 +1,6 @@
-# Как устанавливать:
+<img width="1920" height="1080" alt="Снимок экрана_20260118_235130" src="https://github.com/user-attachments/assets/873e601b-d088-4699-9d04-918286a152ab" />
+
+### Как устанавливать:
 
 0. Иметь систему с LXQt и Openbox
 
