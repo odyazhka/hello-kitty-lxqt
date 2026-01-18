@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=conky
+Name=Conky
+NoDisplay=true
+OnlyShowIn=LXQt;
+Type=Application
+Version=1.0
