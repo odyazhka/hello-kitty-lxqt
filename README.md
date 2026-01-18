@@ -3,11 +3,11 @@
 
 ## Как устанавливать:
 
-#0) Иметь систему с LXQt и Openbox
+# 0. Иметь систему с LXQt и Openbox
 
 Желательно, но можно адаптировать
 
-#1) Установить picom:
+# 1. Установить picom:
 
 ```sudo pacman -S picom```
 
@@ -15,13 +15,13 @@
 
 ``` sudo mv ~/picom /home/username/.config```
 
-#2) Папку *tema-de* переместить в /usr/share/lxqt/themes командой:
+# 2. Папку *tema-de* переместить в /usr/share/lxqt/themes командой:
 
 ```sudo mv ~/tema-de /usr/share/lxqt/themes```
 
 Через настройки OpenBox установить тему *tema-wm.obt*
 
-#3) Нижнюю панель настроить так:
+# 3. Нижнюю панель настроить так:
 
 <img width="620" height="506" alt="изображение" src="https://github.com/user-attachments/assets/44c7c627-7a2e-459f-b6e8-edd8a53c63e6" />
 <img width="620" height="506" alt="изображение" src="https://github.com/user-attachments/assets/1868cb46-54d5-4197-9e93-9b0d5e1c2fcc" />
@@ -32,7 +32,7 @@
 
 ```'<b>'H:mm' <font size="3">// 'ddd, d MMM```
 
-#4) Установка виджета системного монитора:
+# 4. Установка виджета системного монитора:
    
    ```sudo pacman -S conky```
 
