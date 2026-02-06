@@ -3,15 +3,13 @@
 
 ## Как устанавливать:
 
-### 0. Иметь систему с LXQt
-
-Желательно, но можно попробовать адаптировать на похожую DE типа  XFCE LXDE или KDE
+### 0. Иметь систему с LXQt (X11+Openbox)
 
 ### 1. Установить picom:
 
 ```sudo pacman -S picom```
 
-Папку *picom* переместить в /home/username/.config (username - ваше имя пользователя). Можно командой:
+Папку *picom* переместить в ~/.config. Можно командой:
 
 ``` sudo mv ~/picom /home/username/.config```
 
@@ -39,9 +37,9 @@
    
    ```sudo pacman -S conky```
 
-Файл *.conkyrc* перенести в */home/username*
+Файл *.conkyrc* перенести в домашнюю директорию *~/*
 
-Для автозапуска файл *conky.desktop* перенести в */home/username/.config/autostart*
+Для автозапуска файл *conky.desktop* перенести в *~/.config/autostart*
 
 Для настройки виджета под себя мне помог этот сайт:
 
